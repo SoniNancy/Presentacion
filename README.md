@@ -1,3 +1,12 @@
-# Sonia Nancy Hortaso
+# Sonia Nancy Hortaso :sparkles:
 ## Datos personales
-Esta es mi presentación personal
+
+![Esta soy yo](./img/yo.jpg)
+
+-Alias: Sony
+-Lugar de residencia: San Miguel
+-Casada
+-2 hijos
+
+## Hobby
+-Turismo aventura
